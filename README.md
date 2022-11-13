@@ -96,7 +96,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sakti8093"><img alt="sakti8093's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakti8093&custom_title='sakti prasad's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sakti8093"><img alt="sakti8093's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakti8093&custom_title=sakti8093's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
