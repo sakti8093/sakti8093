@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Full+Stack+Web+Developer;DS%20|%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">"I am a Btech graduate who is highly enthusiastic about web development,And always open to work on new technologies.❤️ to </>" </h4>
+<h4 align="center">"I am a Btech graduate who is highly enthusiastic about web development,And always open to work on new technologies.❤️ to code" </h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sakti8093&label=Profile%20views&color=0e75b6&style=plastic" /> </p>
 
